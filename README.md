@@ -6,6 +6,8 @@ Data Structures included:
 * Linked List
 * Queue
 * Stack
+* Dictionary
+* Hash Map
 
 Algorithms:
 * Recursion
