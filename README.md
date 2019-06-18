@@ -8,6 +8,7 @@ Data Structures included:
 * Stack
 * Dictionary
 * Hash Map
+* Graphs
 
 Algorithms:
 * Recursion
